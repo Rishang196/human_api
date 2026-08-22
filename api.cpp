@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Hello World";
-    
+    int ans,a=10,b=10;
+    ans=a+b;
+    cout<<ans;
 }
