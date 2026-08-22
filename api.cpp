@@ -5,3 +5,6 @@ int main(){
     ans=a+b;
     cout<<ans;
 }
+    cout<<"Hello World";
+    cout<<"madarchod";
+}
